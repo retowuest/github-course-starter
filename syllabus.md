@@ -70,3 +70,9 @@ Power Politics.”](http://www.jstor.org/stable/2706858) *International Organiza
 
 
 ### Why Does Bargaining Fail?
+
+#### April 28/29: Bargaining Theory
+
+**Required Readings**
+
+**Further Readings**
