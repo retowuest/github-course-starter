@@ -7,7 +7,7 @@ pdf: syllabus-j2p216-2016.pdf
 
 ## Description
 
-### Required Books
+## Required Books
 
 * Hastie, Tibshirani, and Friedman,
   [*The Elements of Statistical Learning*](http://statweb.stanford.edu/~tibs/ElemStatLearn/)
@@ -16,7 +16,7 @@ pdf: syllabus-j2p216-2016.pdf
   [*War and the State*](http://www.amazon.com/War-State-Theory-International-Politics/dp/0472069810)
 
 
-### Schedule
+## Schedule
 
 1. **Dates**: Subject
     * Reading 1
