@@ -27,7 +27,7 @@ We will be using [Piazza](https://piazza.com/university_of_geneva/spring2016/j2p
 
 #### March 3/4: Introduction
 
-**Required Readings**
+    **Required Readings**
 
 * Walt, Stephen M. 1998. [“International Relations: One World, Many Theories.”](http://www.jstor.org/stable/1149275) *Foreign Policy* 110: 29-46.
 
@@ -62,14 +62,14 @@ Power Politics.”](http://www.jstor.org/stable/2706858) *International Organiza
 
 ### Why Do States Bargain?
 
-##### Commerce
+#### March 24/25: Commerce
 
 **Required Readings**
 
 **Further Readings**
 
 
-### Why Does Bargain Fail?
+### Why Does Bargaining Fail?
 
 
 * Hastie, Tibshirani, and Friedman,
