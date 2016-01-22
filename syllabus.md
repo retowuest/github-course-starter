@@ -2,7 +2,7 @@
 title: Syllabus
 category: syllabus
 layout: syllabus
-pdf: syllabus-psci-221.pdf
+pdf: syllabus-j2p216-2016.pdf
 ---
 
 ## Syllabus
