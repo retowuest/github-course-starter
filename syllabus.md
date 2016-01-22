@@ -25,14 +25,12 @@ We will be using [Piazza](https://piazza.com/university_of_geneva/spring2016/j2p
 
 ### Introduction to International Relations
 
-
-
 #### March 3/4: Introduction
 
 **Required Readings**
 
 * Walt, Stephen M. 1998. [“International Relations: One World, Many Theories.”](http://www.jstor.org/stable/1149275) *Foreign Policy* 110: 29-46.
-
+  
 #### March 10/11: Levels of Analysis in International Relations
 
 **Required Readings**
@@ -41,8 +39,6 @@ We will be using [Piazza](https://piazza.com/university_of_geneva/spring2016/j2p
 
 * James, Patrick. 1995. [“Structural Realism and the Causes of War.”](http://www.jstor.org/stable/222750) *Mershon International
 Studies Review* 39(2): 181-208.
-
-  
 
 #### March 17/18: Cooperation in the Face of Anarchy
 
