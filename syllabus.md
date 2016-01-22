@@ -40,7 +40,7 @@ We will be using [Piazza](https://piazza.com/university_of_geneva/spring2016/j2p
 * James, Patrick. 1995. [“Structural Realism and the Causes of War.”](http://www.jstor.org/stable/222750) *Mershon International
 Studies Review* 39(2): 181-208.
 
-##### March 17/18: Cooperation in the Face of Anarchy
+#### March 17/18: Cooperation in the Face of Anarchy
 
 **Required Readings**
 
