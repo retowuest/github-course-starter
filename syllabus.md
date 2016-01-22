@@ -70,21 +70,3 @@ Power Politics.”](http://www.jstor.org/stable/2706858) *International Organiza
 
 
 ### Why Does Bargaining Fail?
-
-
-* Hastie, Tibshirani, and Friedman,
-  [*The Elements of Statistical Learning*](http://statweb.stanford.edu/~tibs/ElemStatLearn/)
-
-* R. Harrison Wagner,
-  [*War and the State*](http://www.amazon.com/War-State-Theory-International-Politics/dp/0472069810)
-
-
-## Schedule
-
-1. **Dates**: Subject
-    * Reading 1
-    * Reading 2
-
-2. **Dates**: Subject
-    * Reading 1
-    * Reading 2
