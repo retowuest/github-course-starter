@@ -23,7 +23,7 @@ We will be using [Piazza](https://piazza.com/university_of_geneva/spring2016/j2p
 
 # Schedule
 
-  ### Introduction to International Relations
+### Introduction to International Relations
 
 #### March 3/4: Introduction
 
