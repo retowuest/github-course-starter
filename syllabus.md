@@ -1,7 +1,8 @@
 ---
 title: Syllabus
 category: syllabus
-layout: default
+layout: syllabus
+pdf: syllabus-psci-221.pdf
 ---
 
 ## Syllabus
