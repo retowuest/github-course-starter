@@ -25,17 +25,17 @@ We will be using [Piazza](https://piazza.com/university_of_geneva/spring2016/j2p
 
 ### Introduction to International Relations
 
-#### March 3/4: Introduction
+##### March 3/4: Introduction
 
 **Required Readings**
 
-#### March 10/11: Levels of Analysis in International Relations
+##### March 10/11: Levels of Analysis in International Relations
 
 **Required Readings**
 
 **Further Readings**
 
-#### March 17/18: Cooperation in the Face of Anarchy
+##### March 17/18: Cooperation in the Face of Anarchy
 
 **Required Readings**
 
@@ -44,7 +44,7 @@ We will be using [Piazza](https://piazza.com/university_of_geneva/spring2016/j2p
 
 ### Why Do States Bargain?
 
-#### Commerce
+##### Commerce
 
 **Required Readings**
 
