@@ -5,7 +5,6 @@ layout: syllabus
 pdf: syllabus-j2p216-2016.pdf
 ---
 
-
 **{{site.data.course.number}}**: {{site.data.course.name}}  
 **Instructor**: {{site.data.instructor.name}}  
 (etc)
