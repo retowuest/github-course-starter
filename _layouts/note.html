@@ -11,9 +11,6 @@ layout: default
 {% if page.slides %}
 <h1>Slides</h1>
 
-{% for slide in page.slides %}
-<h2>{{slide.title}}</h2>
-
 <a href="{{site.baseurl}}/slides/{{slide.file}}.pdf"><img class="img-thumbnail" src="{{site.baseurl}}/slides/{{slide.file}}.png" /></a>
 {% endfor %}
 
