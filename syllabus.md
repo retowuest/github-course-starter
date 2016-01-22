@@ -21,7 +21,38 @@ There are two required readings each week. Students are expected to have read al
 We will be using [Piazza](https://piazza.com/university_of_geneva/spring2016/j2p216/home) for class discussion. Piazza is a free online platform for class Q&A that replaces mailing lists. Rather than emailing questions to the instructor, you are encouraged to post your questions on Piazza. This allows you to answer each other's questions and for the entire class to see the instructor's responses.
 
 
-# Required Books
+# Schedule
+
+## Introduction to International Relations
+
+### March 3/4: Introduction
+
+**Required Readings**
+
+### March 10/11: Levels of Analysis in International Relations
+
+**Required Readings**
+
+**Further Readings**
+
+### March 17/18: Cooperation in the Face of Anarchy
+
+**Required Readings**
+
+**Further Readings**
+
+
+## Why Do States Bargain?
+
+### Commerce
+
+**Required Readings**
+
+**Further Readings**
+
+
+## Why Does Bargain Fail?
+
 
 * Hastie, Tibshirani, and Friedman,
   [*The Elements of Statistical Learning*](http://statweb.stanford.edu/~tibs/ElemStatLearn/)
