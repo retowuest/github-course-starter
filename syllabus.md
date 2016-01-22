@@ -23,35 +23,35 @@ We will be using [Piazza](https://piazza.com/university_of_geneva/spring2016/j2p
 
 # Schedule
 
-## Introduction to International Relations
+### Introduction to International Relations
 
-### March 3/4: Introduction
-
-**Required Readings**
-
-### March 10/11: Levels of Analysis in International Relations
+#### March 3/4: Introduction
 
 **Required Readings**
 
-**Further Readings**
-
-### March 17/18: Cooperation in the Face of Anarchy
+#### March 10/11: Levels of Analysis in International Relations
 
 **Required Readings**
 
 **Further Readings**
 
-
-## Why Do States Bargain?
-
-### Commerce
+#### March 17/18: Cooperation in the Face of Anarchy
 
 **Required Readings**
 
 **Further Readings**
 
 
-## Why Does Bargain Fail?
+### Why Do States Bargain?
+
+#### Commerce
+
+**Required Readings**
+
+**Further Readings**
+
+
+### Why Does Bargain Fail?
 
 
 * Hastie, Tibshirani, and Friedman,
