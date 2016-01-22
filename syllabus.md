@@ -23,11 +23,11 @@ We will be using [Piazza](https://piazza.com/university_of_geneva/spring2016/j2p
 
 # Schedule
 
-### Introduction to International Relations
+  ### Introduction to International Relations
 
 #### March 3/4: Introduction
 
-    **Required Readings**
+**Required Readings**
 
 * Walt, Stephen M. 1998. [“International Relations: One World, Many Theories.”](http://www.jstor.org/stable/1149275) *Foreign Policy* 110: 29-46.
 
