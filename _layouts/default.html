@@ -37,14 +37,14 @@
           <li{% if page.category == "home" %} class="active"{% endif %}><a href="{{ site.baseurl }}/index.html">Home</a></li>
           <li{% if page.category == "syllabus" %} class="active"{% endif %}><a href="{{ site.baseurl }}/syllabus.html">Syllabus</a></li>
           <li class="dropdown{% if page.category == "note" %} active{% endif %}">
-            <a href="#" class="dropdown-toggle" data-toggle="dropdown">Notes <b class="caret"></b></a>
+            <a href="#" class="dropdown-toggle" data-toggle="dropdown">Slides <b class="caret"></b></a>
             <ul class="dropdown-menu">
               {% if site.notes[0] %}
               {% for note in site.notes %}
               <li><a href="{{site.baseurl}}{{note.url}}">{{note.title}}</a></li>
               {% endfor %}
               {% else %}
-              <li class="dropdown-header">No notes posted</li>
+              <li class="dropdown-header">No slides posted</li>
               {% endif %}
             </ul>
           </li>
@@ -78,6 +78,12 @@
 <!--jQuery & Twitter Bootstrap JavaScript-->
 <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.0/jquery.min.js"></script>
 <script src="{{ site.baseurl }}/assets/js/bootstrap.min.js"></script>
+
+<!-- Extra jQuery for footnote styles -->
+<script>
+  jQuery("div.footnotes").addClass("text-muted");
+  jQuery("div.footnotes").prepend("<hr /> <p><strong>Notes</strong></p>");
+</script>
 
 </body>
 </html>
