@@ -29,18 +29,8 @@ We will be using [Piazza](https://piazza.com/university_of_geneva/spring2016/j2p
 
 **Required Readings**
 
-<<<<<<< Updated upstream
-=======
-<<<<<<< HEAD
-* Walt, Stephen M. 1998. [“International Relations: One World, Many Theories.”](http://www.jstor.org/stable/1149275) *Foreign Policy* 110: 29-46.
-
-=======
->>>>>>> Stashed changes
 * Walt, Stephen M. 1998. [“International Relations: One World, Many Theories.”](http://www.jstor.org/stable/1149275) *Foreign Policy* 110: 29-46.  
 
-
-
->>>>>>> origin/gh-pages
 #### March 10/11: Levels of Analysis in International Relations
 
 **Required Readings**
