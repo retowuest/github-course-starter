@@ -39,7 +39,7 @@ We will be using [Piazza](https://piazza.com/university_of_geneva/spring2016/j2p
 
 **Further Readings**
 
-*
+* 
 
 #### March 17/18: Cooperation in the Face of Anarchy
 
