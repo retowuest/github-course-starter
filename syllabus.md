@@ -29,7 +29,7 @@ We will be using [Piazza](https://piazza.com/university_of_geneva/spring2016/j2p
 
 **Required Readings**
 
-* Walt, Stephen M. 1998. [“International Relations: One World, Many Theories.”](http://www.jstor.org/stable/1149275) *Foreign Policy* 110: 29-46.
+* Walt, Stephen M. 1998. [“International Relations: One World, Many Theories.”](http://www.jstor.org/stable/1149275) *Foreign Policy* 110: 29-46.  
 
   
   
