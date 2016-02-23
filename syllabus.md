@@ -39,7 +39,7 @@ We will be using [Piazza](https://piazza.com/university_of_geneva/spring2016/j2p
 
 **Further Readings**
 
-* Waltz, Kenneth N. 1959. “Man, the State, and War: A Theoretical Analysis.” New York: Columbia University Press. Chapters 2, 4, 6.
+* Waltz, Kenneth N. 1959. *Man, the State, and War: A Theoretical Analysis.* New York: Columbia University Press. Chapters 2, 4, 6.
 
 #### March 17/18: Cooperation in the Face of Anarchy
 
