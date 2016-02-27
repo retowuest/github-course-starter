@@ -78,6 +78,28 @@ While students are encouraged to discuss course materials, no collaboration is a
 
 **Further Readings**
 
+* Gartzke, Erik, Quan Li, and Charles Boehmer. 2001. ["Investing in the Peace: Economic Interdependence and International Conflict."](http://www.jstor.org/stable/3078636) *International Organization* 55(2): 391-438.
+
+#### Thu, March 24 / Fri, April 8: Territory
+
+**Required Readings**
+
+* **[P]** Walter, Barbara F. 2003. ["Explaining the Intractability of Territorial Conflict."](http://onlinelibrary.wiley.com/doi/10.1111/j.1079-1760.2003.00504012.x/abstract) *International Studies Review* 5(4): 137-153.
+
+* **[P]** Simmons, Beth A. 2005. ["Rules over Real Estate: Trade, Territorial Conflict, and International Borders as Institution."](http://www.jstor.org/stable/30045138) *Journal of Conflict Resolution* 49(6): 823-848.
+
+**Further Readings**
+
+* Branch, Jordan. 2011. ["Mapping the Sovereign State: Technology, Authority, and Systemic Change."](http://www.jstor.org/stable/23016102) *International Organization* 65(1): 1-36.
+
+* Carter, David B. and H. E. Goemans. 2011. ["The Making of the Territorial Order: New Borders and the Emergence of Interstate Conflict."](http://www.jstor.org/stable/23016813) *International Organization* 65(2): 275-309.
+
+#### Thu, April 7 / Fri, April 15: Ideology
+
+**Required Readings**
+
+**Further Readings**
+
 
 ### Why Does Bargaining Fail?
 
