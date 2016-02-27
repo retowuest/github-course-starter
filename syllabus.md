@@ -49,7 +49,7 @@ While students are encouraged to discuss course materials, no collaboration is a
 
 ### Introduction to International Relations
 
-#### March 3/4: Introduction to here
+#### March 3/4: Introduction
 
 **Required Readings**
 
