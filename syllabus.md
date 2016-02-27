@@ -98,13 +98,43 @@ While students are encouraged to discuss course materials, no collaboration is a
 
 **Required Readings**
 
+* **[P]** Lake, David A. 1992. ["Powerful Pacifists: Democratic States and War."](http://www.jstor.org/stable/1964013) *American Political Science Review* 86(1): 24-37.
+
+* **[P]** Rosato, Sebastian. 2003. ["The Flawed Logic of Democratic Peace Theory."](http://www.jstor.org/stable/3593025) *American Political Science Review* 97(4): 585-602.
+
 **Further Readings**
+
+* Doyle, Michael W. 1983. ["Kant, Liberal Legacies, and Foreign Affairs."](http://www.jstor.org/stable/2265298) *Philosophy & Public Affairs* 12(3): 205-235.
+
+* Doyle, Michael W. 1983. ["Kant, Liberal Legacies, and Foreign Affairs, Part 2."](http://www.jstor.org/stable/2265377) *Philosophy & Public Affairs* 12(4): 323-353.
+
+* Bukovansky, Mlada. 1999. ["The Altered State and the State of Nature: The French Revolution and International Politics."](http://www.jstor.org/stable/20097590) *Review of International Studies* 25(2): 197-216.
+
+#### Thu, April 14 / Fri, April 22: Identity
+
+**Required Readings**
+
+* **[P]** Huntington, Samuel P. 1993. ["The Clash of Civilizations?"](http://www.jstor.org/stable/20045621) *Foreign Affairs* 72(3): 22-49.
+
+* **[P]** Henderson, Errol A. and Richard Tucker. 2001. ["Clear and Present Strangers: The Clash of Civilizations and International Conflict."](http://www.jstor.org/stable/3096113) *International Studies Quarterly* 45(2): 317-338.
+
+**Further Readings**
+
+* Posen, Barry R. 1993. ["The Security Dilemma and Ethnic Conflict."](http://www.tandfonline.com/doi/abs/10.1080/00396339308442672?journalCode=tsur20) *Survival* 35(1): 27-47.
+
+* Snyder, Jack and Karen Ballentine. 1996. ["Nationalism and the Marketplace of Ideas."](http://www.jstor.org/stable/2539069) *International Security* 21(2): 5-40.
 
 
 ### Why Does Bargaining Fail?
 
-#### April 28/29: Bargaining Theory
+#### Thu, April 21 / Fri, April 29: Bargaining Theory
 
 **Required Readings**
 
+* **[P]** Powell, Robert. 2002. ["Bargaining Theory and International Conflict."](http://search.ebscohost.com/login.aspx?direct=true&db=buh&AN=6790109&site=ehost-live) *Annual Review of Political Science* 5: 1-30. [Read carefully: pp. 1-14, 19-23; skim: pp. 14-19, 23-27]
+
 **Further Readings**
+
+* Muthoo, Abhinay. 2000. ["A Non-Technical Introduction to Bargaining Theory."](http://isites.harvard.edu/fs/docs/icb.topic1188138.files/Week%203/Muthoo_2000.pdf) *World Economics* 1(2): 145-166.
+
+* Reiter, Dan. 2003. ["Exploring the Bargaining Model of War."](http://www.jstor.org/stable/3687811) *Perspectives on Politics* 1(1): 27-43.
