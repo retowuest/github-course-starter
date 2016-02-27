@@ -138,3 +138,60 @@ While students are encouraged to discuss course materials, no collaboration is a
 * Muthoo, Abhinay. 2000. ["A Non-Technical Introduction to Bargaining Theory."](http://isites.harvard.edu/fs/docs/icb.topic1188138.files/Week%203/Muthoo_2000.pdf) *World Economics* 1(2): 145-166.
 
 * Reiter, Dan. 2003. ["Exploring the Bargaining Model of War."](http://www.jstor.org/stable/3687811) *Perspectives on Politics* 1(1): 27-43.
+
+#### Thu, April 28 / Fri, May 6: Uncertainty
+
+**Required Readings**
+
+* **[P]** Levy, Jack S. 1983. ["Misperception and the Causes of War: Theoretical Linkages and Analytical Problems."](http://www.jstor.org/stable/2010176) *World Politics* 36(1): 76-99.
+
+* **[P]** Fearon, James D. 1995. ["Rationalist Explanations for War."](http://www.jstor.org/stable/2706903) *International Organization* 49(3): 379-414.
+
+**Further Readings**
+
+* Gartzke, Erik. 1999. ["War Is in the Error Term."](http://www.jstor.org/stable/2601290) *International Organization* 53(3): 567-587.
+
+* Garfinkel, Michelle R. and Stergios Skaperdas. 2000. ["Conflict without Misperceptions or Incomplete Information: How the Future Matters."](http://jcr.sagepub.com/content/44/6/793.short) *Journal of Conflict Resolution* 44(6): 793-807.
+
+* Leventoğlu, Bahar and Ahmer Tarar. 2008. ["Does Private Information Lead to Delay or War in Crisis Bargaining?"](http://www.jstor.org/stable/29734250) *International Studies Quarterly* 52(3): 533-553.
+
+#### Thu, May 12 / Fri, May 13: Commitment Problems
+
+**Required Readings**
+
+* **[P]** Lake, David A. 2010/11. ["Two Cheers for Bargaining Theory: Assessing Rationalist Explanations of the Iraq War."](http://www.mitpressjournals.org/doi/abs/10.1162/ISEC_a_00029#.VorZipMrLdQ) *International Security* 35(3): 7-52.
+
+**Further Readings**
+
+* Powell, Robert. 2006. ["War as a Commitment Problem."](http://www.jstor.org/stable/3877871) *International Organization* 60(1): 169-203.
+
+* Walter, Barbara F. 1997. ["The Critical Barrier to Civil War Settlement."](http://www.jstor.org/stable/2703607) *International Organization* 51(3): 335-364.
+
+* Findley, Michael G. and Joseph K. Young. 2011. ["Terrorism, Democracy, and Credible Commitments."](http://onlinelibrary.wiley.com/doi/10.1111/j.1468-2478.2011.00647.x/full) *International Studies Quarterly* 55(2): 357-378.
+
+#### Thu, May 19 / Fri, May 20: Domestic Politics
+
+**Required Readings**
+
+* **[P]** Putnam, Robert D. 1988. ["Diplomacy and Domestic Politics: The Logic of Two-Level Games."](http://www.jstor.org/stable/2706785) *International Organization* 42(3): 427-460.
+
+* **[P]** Chiozza, Giacomo and H. E. Goemans. 2004. ["International Conflict and the Tenure of Leaders: Is War Still `Ex Post' Inefficient?"](http://www.jstor.org/stable/1519919) *American Journal of Political Science* 48(3): 604-619.
+
+**Further Readings**
+
+* Fearon, James D. 1994. ["Domestic Political Audiences and the Escalation of International Disputes."](http://www.jstor.org/stable/2944796) *American Political Science Review* 88(3): 577-592.
+
+* Schultz, Kenneth A. 1998. ["Domestic Opposition and Signaling in International Crises."](http://www.jstor.org/stable/2586306) *American Political Science Review* 92(4): 829-844.
+
+* Jackson, Matthew O. and Massimo Morelli. 2007. ["Political Bias and War."](http://www.jstor.org/stable/30034096) *American Economic Review* 97(4): 1353-1373.
+
+* Weeks, Jessica L. 2008. ["Autocratic Audience Costs: Regime Type and Signaling Resolve."](http://www.jstor.org/stable/40071874) *International Organization* 62(1): 35-64.
+
+
+### Conclusion
+
+#### Thu, May 26 / Fri, May 27: Conclusion
+
+**Required Readings**
+
+* TBA
