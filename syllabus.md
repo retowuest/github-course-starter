@@ -9,7 +9,7 @@ pdf: syllabus-j2p216-2016.pdf
 
 ### Introduction to International Relations
 
-#### March 3/4: Introduction to here
+#### March 3/4: Introduction to ir
 
 **Required Readings**
 
