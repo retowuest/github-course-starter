@@ -53,13 +53,13 @@ While students are encouraged to discuss course materials, no collaboration is a
 
 **Required Readings**
 
-* Walt, Stephen M. 1998. [“International Relations: One World, Many Theories.”](http://www.jstor.org/stable/1149275) *Foreign Policy* 110: 29-46.
+* Walt, Stephen M. 1998. ["International Relations: One World, Many Theories."](http://www.jstor.org/stable/1149275) *Foreign Policy* 110: 29-46.
 
 #### Thu, March 10 / Fri, March 11: Levels of Analysis in International Relations
 
 **Required Readings**
 
-* Singer, J. David. 1961. [“The Level-of-Analysis Problem in International Relations.”](http://www.jstor.org/stable/2009557) *World Politics* 14(1): 77-92.
+* Singer, J. David. 1961. ["The Level-of-Analysis Problem in International Relations."](http://www.jstor.org/stable/2009557) *World Politics* 14(1): 77-92.
 
 **Further Readings**
 
@@ -72,7 +72,9 @@ While students are encouraged to discuss course materials, no collaboration is a
 
 **Required Readings**
 
-* **[P]** Gowa, Joanne and Edward D. Mansfield. 1993. [“Power Politics and International Trade.”](http://www.jstor.org/stable/2939050) *American Political Science Review* 87(2): 408-420.
+* **[P]** Gowa, Joanne and Edward D. Mansfield. 1993. ["Power Politics and International Trade."](http://www.jstor.org/stable/2939050) *American Political Science Review* 87(2): 408-420.
+
+* **[P]** Gartzke, Erik. 2007. ["The Capitalist Peace."](http://onlinelibrary.wiley.com/doi/10.1111/j.1540-5907.2007.00244.x/abstract) *American Journal of Political Science* 51(1): 166-191.
 
 **Further Readings**
 
