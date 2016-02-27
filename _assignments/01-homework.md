@@ -1,5 +1,5 @@
 ---
-title: First Assignment
+title: Critical Response Papers
 ---
 
 Due in class on **MM DD**.
