@@ -7,42 +7,18 @@ pdf: syllabus-j2p216-2016.pdf
 
 # Description
 
-This seminar is an introduction to the analysis of international conflict and cooperation. The seminar begins with a brief review of the primary theoretical paradigms in the field and the levels at which states interact. It then addresses the question of what factors cause conflict and peace between states. We then examine why states engaged in a dispute fail to reach negotiated settlements. In particular, we explore how uncertainty, commitment problems, and domestic politics can lead to bargaining failure, and hence war.
+This seminar is an introduction to the analysis of international conflict and cooperation. The seminar begins with a review of the levels at which states interact and the primary theoretical paradigms in the field. It then addresses how states achieve cooperation in the face of international anarchy and how bargaining breakdowns, commitment and information problems can lead to conflict. We also explore psychological perspectives and the role of leaders, domestic politics, and international institutions in international cooperation and conflict.
 
 
 # Resources
 
 ### Readings
 
-There are up to two required readings each week. Students are expected to have read all required readings prior to class. The readings listed under "Further Readings" are not required, but they may be helpful for students who are interested in learning more about the topics. Links to all journal articles are available in the [syllabus](http://retowuest.github.io/j2p216/syllabus) on the course website. Scans of book chapters will be made available through [Chamilo](https://chamilo.unige.ch/).
+There are two required readings each week. Students are expected to have read all required readings prior to class. The readings listed under "Further Readings" are not required, but they may be helpful for students who are interested in learning more about the topics. Links to all journal articles are available in the [syllabus](http://retowuest.github.io/j2p216/syllabus) on the course website. Scans of book chapters will be made available through [Chamilo](https://chamilo.unige.ch/).
 
 ### Piazza
 
 We will be using [Piazza](https://piazza.com/university_of_geneva/spring2016/j2p216/home) for class discussion. Piazza is a free online platform for class Q&A that replaces mailing lists. Rather than emailing questions to the instructor, you are encouraged to post your questions on Piazza. This allows you to answer each other's questions and for the entire class to see the instructor's responses.
-
-
-# Assessment
-
-The assessment for this course consists of two critical response papers (50%), a class presentation (40%), and a student's in-class participation (10%).
-
-### Critical Response Papers (50%)
-
-Each student will write two critical response papers throughout the semester. Each paper will consist of a critical assessment of one of the required course readings. The papers must be turned in within two weeks of the discussion of the reading they respond to. For more details, see the information on critical response papers on the course website.
-
-
-### Class Presentation (40%)
-
-Students will give a 15-20 minute presentation in class about one of the required readings. The schedule of presentations will be set in the second week of class. For more details, see the information on class presentations on the course website.
-
-
-### Class Participation (10%)
-
-Participation consists of more than attendance. Behaviors that improve students' participation evaluation are answering questions asked of the class, asking questions, and responding to something another student says (including answering a question asked by a student).
-
-
-# Academic Integrity
-
-While students are encouraged to discuss course materials, no collaboration is allowed on critical response papers. There is no tolerance for plagiarism. Any student who turns in plagiarized work will fail the course. For more information, see the [Directive on student plagiarism](https://memento.unige.ch/doc/0008/files/directive-on-student-plagiarism-1.pdf).
 
 
 # Schedule
