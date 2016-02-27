@@ -25,17 +25,17 @@ We will be using [Piazza](https://piazza.com/university_of_geneva/spring2016/j2p
 
 The assessment for this course consists of two critical response papers (50%), a class presentation (40%), and a student's in-class participation (10%).
 
-### Critical Response Papers (50%)
+### Critical Response Papers
 
 Each student will write two critical response papers throughout the semester. Each paper will consist of a critical assessment of one of the required course readings. The papers must be turned in within two weeks of the discussion of the reading they respond to. For more details, see the information on critical response papers on the course website.
 
 
-### Class Presentation (40%)
+### Class Presentation
 
 Students will give a 15-20 minute presentation in class about one of the required readings. The schedule of presentations will be set in the second week of class. For more details, see the information on class presentations on the course website.
 
 
-### Class Participation (10%)
+### Class Participation
 
 Participation consists of more than attendance. Behaviors that improve students' participation evaluation are answering questions asked of the class, asking questions, and responding to something another student says (including answering a question asked by a student).
 
@@ -49,7 +49,7 @@ While students are encouraged to discuss course materials, no collaboration is a
 
 ### Introduction to International Relations
 
-#### March 3/4: Introduction
+#### Thu, March 3 / Fri, March 4: Introduction
 
 **Required Readings**
 
