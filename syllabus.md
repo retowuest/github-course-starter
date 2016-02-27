@@ -72,7 +72,7 @@ While students are encouraged to discuss course materials, no collaboration is a
 
 **Required Readings**
 
-* Gowa, Joanne and Edward D. Mansfield. 1993. [“Power Politics and International Trade.”](http://www.jstor.org/stable/2939050) *American Political Science Review* 87(2): 408-420.
+* **[P]** Gowa, Joanne and Edward D. Mansfield. 1993. [“Power Politics and International Trade.”](http://www.jstor.org/stable/2939050) *American Political Science Review* 87(2): 408-420.
 
 **Further Readings**
 
