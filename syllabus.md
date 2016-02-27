@@ -45,8 +45,7 @@ We will be using [Piazza](https://piazza.com/university_of_geneva/spring2016/j2p
 
 **Required Readings**
 
-* Grieco, Joseph, Robert Powell and Duncan Snidal. 1993. [“The Relative-Gains Problem for
-International Cooperation.”](http://www.jstor.org/stable/2938747) *American Political Science Review* 87(3): 727-743.
+* Grieco, Joseph, Robert Powell and Duncan Snidal. 1993. [“The Relative-Gains Problem for International Cooperation.”](http://www.jstor.org/stable/2938747) *American Political Science Review* 87(3): 727-743.
 * Wendt, Alexander. 1992. [“Anarchy is what States Make of it: The Social Construction of
 Power Politics.”](http://www.jstor.org/stable/2706858) *International Organization* 46(2): 391-425.
 * Jervis, Robert. 1978. [“Cooperation Under the Security Dilemma.”](http://www.jstor.org/stable/2009958) *World Politics* 30(2):
