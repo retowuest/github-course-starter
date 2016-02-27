@@ -55,6 +55,7 @@ While students are encouraged to discuss course materials, no collaboration is a
 
 * Walt, Stephen M. 1998. [“International Relations: One World, Many Theories.”](http://www.jstor.org/stable/1149275) *Foreign Policy* 110: 29-46.  
 
+
 #### Thu, March 10 / Fri, March 11: Levels of Analysis in International Relations
 
 **Required Readings**
