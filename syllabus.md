@@ -65,28 +65,10 @@ While students are encouraged to discuss course materials, no collaboration is a
 
 * Waltz, Kenneth N. 1959. *Man, the State, and War: A Theoretical Analysis.* New York: Columbia University Press. [Chapters 2, 4, 6]
 
-#### March 17/18: Cooperation in the Face of Anarchy
 
-**Required Readings**
+### What Causes Conflict Between States?
 
-* Grieco, Joseph, Robert Powell and Duncan Snidal. 1993. [“The Relative-Gains Problem for International Cooperation.”](http://www.jstor.org/stable/2938747) *American Political Science Review* 87(3): 727-743.
-* Wendt, Alexander. 1992. [“Anarchy is what States Make of it: The Social Construction of
-Power Politics.”](http://www.jstor.org/stable/2706858) *International Organization* 46(2): 391-425.
-* Jervis, Robert. 1978. [“Cooperation Under the Security Dilemma.”](http://www.jstor.org/stable/2009958) *World Politics* 30(2):
-167-214.
-
-**Further Readings**
-
-* Milner, Helen. 1991. [“The Assumption of Anarchy in International Relations Theory: A Critique.”](http://www.jstor.org/stable/20097244) *Review of International Studies* 17(1): 67-85.
-* Powell, Robert. 1994. [“Review: Anarchy in International Relations Theory: The Neorealist- Neoliberal Debate.”](http://www.jstor.org/stable/2706934) *International Organization* 48(2): 313-344.
-* Axelrod, Robert and Robert O. Keohane. 1985. [“Achieving Cooperation under Anarchy: Strategies and Institutions.”](http://www.jstor.org/stable/2010357) *World Politics* 38(1): 226-254.
-* Hurd, Ian. 1999. [“Legitimacy and Authority in International Politics.”](http://www.jstor.org/stable/2601393) *International Organization* 53(2): 379-408.
-* Lake, David A. 2007. [“Escape from the State of Nature: Authority and Hierarchy in World Politics.”](http://www.mitpressjournals.org/doi/abs/10.1162/isec.2007.32.1.47#.VouVJ5MrLdQ) *International Security* 32(1): 47-79.
-
-
-### Why Do States Bargain?
-
-#### March 24/25: Commerce
+#### Thu, March 17 / Fri, March 18: Commerce
 
 **Required Readings**
 
