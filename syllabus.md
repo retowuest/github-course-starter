@@ -49,13 +49,13 @@ While students are encouraged to discuss course materials, no collaboration is a
 
 ### Introduction to International Relations
 
-#### March 3/4: Introduction
+#### Thu, March 3 / Fri, March 4: Introduction
 
 **Required Readings**
 
 * Walt, Stephen M. 1998. [“International Relations: One World, Many Theories.”](http://www.jstor.org/stable/1149275) *Foreign Policy* 110: 29-46.  
 
-#### March 10/11: Levels of Analysis in International Relations
+#### Thu, March 10 / Fri, March 11: Levels of Analysis in International Relations
 
 **Required Readings**
 
@@ -63,7 +63,7 @@ While students are encouraged to discuss course materials, no collaboration is a
 
 **Further Readings**
 
-* Waltz, Kenneth N. 1959. *Man, the State, and War: A Theoretical Analysis.* New York: Columbia University Press. Chapters 2, 4, 6.
+* Waltz, Kenneth N. 1959. *Man, the State, and War: A Theoretical Analysis.* New York: Columbia University Press. [Chapters 2, 4, 6]
 
 #### March 17/18: Cooperation in the Face of Anarchy
 
