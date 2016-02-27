@@ -1,11 +1,6 @@
 ---
 title: Critical Response Papers
+pdf: 01-critical-response.pdf
 ---
 
-Due in class on **MM DD**.
-
-### Problems
-
-1. Solve a problem.
-
-2. And another.
+# Instructions
