@@ -13,9 +13,9 @@ A critical response paper has two goals: to summarize the main idea of a course 
 
 ### Introduction
 
-The introduction provides basic information about the source:
+The introduction provides basic information about the source. This includes:
 
-* The authors and publication you are responding to
+* The names of the authors and the publication you are responding to
 
 * A brief summary of the main idea, arguments, and evidence the authors present
 
