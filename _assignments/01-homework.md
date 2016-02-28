@@ -40,3 +40,5 @@ The body contains your arguments. Here are some examples of the kind of argument
   * Argue, based on a theoretical model, for how the case would have played out differently if some factor had been different
 
 #### Conclusion
+
+The conclusion can be a restatement of what you said in your paper. Note that it should include no new information.
