@@ -13,10 +13,16 @@ Your presentation should be about 15 minutes long and answer the following quest
 
   * Try to summarize the paper in a single clear sentence.
 
-  * What does the reading tell us about the causes of war that we wouldn’t have known otherwise?
+  * What does the reading tell us about the causes of war that we would not have known otherwise?
 
 * How is this argument supported? What evidence does the reading provide?
 
-  * While the form of evidence varies across readings, most rely on statistical and/or formal models.
+  * While the form of evidence varies across readings, most rely on statistical and/or formal models. You are not expected to present technical or mathematical material---just the substantive argument and the reasoning behind it.
 
-  * You are not expected to present technical or mathematical material--just the substantive argument and the reasoning behind it.
+* What are some counterpoints to the main argument? Does the paper address them?
+
+  * Some authors explicitly consider competing explanations. Others do not. Either way, do not limit yourself to the objections raised in the paper.
+
+* How does the paper connect to the other course readings? Does it enrich what we have read in class?
+
+Your presentation will be graded on how clearly and deeply it answers the questions mentioned above.
