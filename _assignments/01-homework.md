@@ -9,10 +9,14 @@ Each student will write two critical response papers over the course of the seme
 
 **Important:** Late papers will not be accepted (and thus will receive a grade of zero) unless you have documentation of a medical or family emergency.
 
-A critical response paper has two goals: to summarize the main idea of a course reading and to provide a critical assessment of the reading it is responding to. A response paper should include the following elements:
+A critical response paper has two goals: to summarize the main idea of a course reading and to provide a critical assessment. A response paper should include the following elements:
 
-* Introduction
+* Introduction: The introduction provides information on the author and publication you are responding to and a brief summary of the main points, ideas, or arguments of the work.
 
-* Body
+* Body: The body contains the arguments the response paper makes. Here are some examples of the kind of arguments a critical response paper might make (this is not an exhaustive list).
+
+  * For theoretical readings:
+
+  * For empirical readings:
 
 * Conclusion
