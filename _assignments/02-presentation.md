@@ -26,3 +26,5 @@ Your presentation should be about 15 minutes long and answer the following quest
 * How does the paper connect to the other course readings? Does it enrich what we have read in class?
 
 Your presentation will be graded on how clearly and deeply it answers the questions mentioned above.
+
+&nbsp;
