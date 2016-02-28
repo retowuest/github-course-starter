@@ -42,7 +42,7 @@ Participation consists of more than attendance. Behaviors that improve students'
 
 # Academic Integrity
 
-While students are encouraged to discuss course materials, no collaboration is allowed on critical response papers. There is no tolerance for plagiarism. Any student who turns in plagiarized work will fail the course. For more information, see the [Directive on student plagiarism](https://memento.unige.ch/doc/0008/files/directive-on-student-plagiarism-1.pdf).
+While students are encouraged to discuss course materials, no collaboration is allowed on critical response papers. There is no tolerance for plagiarism. Any student who turns in plagiarized work will fail the course. For more information, see the [Directive on student plagiarism](https://memento.unige.ch/doc/0008/).
 
 
 # Schedule
