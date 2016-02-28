@@ -11,7 +11,7 @@ Each student will write two critical response papers over the course of the seme
 
 A critical response paper has two goals: to summarize the main idea of a course reading and to provide a critical assessment. A response paper should include the following elements: an introduction, body, and conclusion.
 
-### Introduction
+### 1. Introduction
 
 The introduction provides basic information about the source. This includes:
 
@@ -19,7 +19,7 @@ The introduction provides basic information about the source. This includes:
 
 * A brief summary of the main idea, arguments, and evidence the authors present
 
-### Body
+### 2. Body
 
 The body contains your arguments. Here are some examples of the kind of arguments you might want to make (this is not an exhaustive list).
 
@@ -39,6 +39,6 @@ The body contains your arguments. Here are some examples of the kind of argument
 
   * Argue, based on a theoretical model, for how the case would have played out differently if some factor had been different
 
-### Conclusion
+### 3. Conclusion
 
 The conclusion can be a restatement of what you said in your paper. Note that it should include no new information.
