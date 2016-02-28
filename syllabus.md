@@ -23,7 +23,7 @@ We will be using [Piazza](https://piazza.com/university_of_geneva/spring2016/j2p
 
 # Assessment
 
-The assessment for this course consists of two critical response papers (50%), a class presentation (40%), and a student's in-class participation (10%).
+The assessment for this course consists of two critical response papers (50%), a class presentation (30%), and a student's in-class participation (20%).
 
 ### Critical Response Papers
 
