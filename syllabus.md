@@ -14,7 +14,7 @@ This seminar is an introduction to the analysis of international conflict and co
 
 ### Readings
 
-There are up to two required readings each week. Students are expected to have read all required readings prior to class. The readings listed under "Further Readings" are not required, but they may be helpful for students who are interested in learning more about the topics. Links to all journal articles are available in the [syllabus](http://retowuest.github.io/j2p216/syllabus) on the course website. Scans of book chapters will be made available through [Chamilo](https://chamilo.unige.ch/).
+There are up to two required readings each week. Students are expected to have read all required readings prior to class. The readings listed under "Further Readings" are not required, but they may be helpful for students who are interested in learning more about the topics. Links to all journal articles are available in the [syllabus](syllabus.html) on the course website. Scans of book chapters will be made available through [Chamilo](https://chamilo.unige.ch/).
 
 ### Piazza
 
@@ -27,7 +27,7 @@ The assessment for this course consists of two critical response papers (50%), a
 
 ### Critical Response Papers
 
-Each student will write two critical response papers throughout the semester. Each paper will consist of a critical assessment of one of the required course readings. A paper must be turned in within two weeks of the discussion of the reading it responds to. For more details, see the information on critical response papers on the course website.
+Each student will write two critical response papers throughout the semester. Each paper will consist of a critical assessment of one of the required course readings. A paper must be turned in within two weeks of the discussion of the reading it responds to. For more details, see the information on [critical response papers](01-homework.html) on the course website.
 
 
 ### Class Presentation
