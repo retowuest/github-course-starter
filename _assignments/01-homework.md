@@ -9,4 +9,10 @@ Each student will write two critical response papers over the course of the seme
 
 **Important:** Late papers will not be accepted (and thus will receive a grade of zero) unless you have documentation of a medical or family emergency.
 
-A critical response paper has two goals: to summarize the main idea of a course reading and to provide a critical assessment of the reading it is responding to. It should include the following elements:
+A critical response paper has two goals: to summarize the main idea of a course reading and to provide a critical assessment of the reading it is responding to. A response paper should include the following elements:
+
+* Introduction
+
+* Body
+
+* Conclusion
