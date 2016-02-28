@@ -13,11 +13,11 @@ A critical response paper has two goals: to summarize the main idea of a course 
 
 ### Introduction
 
-The introduction provides basic information about the source. This includes:
+The introduction provides basic information about the reading. This includes:
 
-* The names of the authors and the publication you are responding to
+* The names of the authors and the publication you are responding to.
 
-* A brief summary of the main idea, arguments, and evidence the authors present
+* A brief summary of the main idea, arguments, and evidence the authors present.
 
 ### Body of the Paper
 
@@ -25,19 +25,19 @@ The body contains your arguments. Here are some examples of the kind of argument
 
 * For theoretical readings:
 
-  * Use historical evidence to evaluate the plausibility of the assumptions the authors make
+  * Use historical evidence to evaluate the plausibility of the assumptions the authors make.
 
-  * Propose an important factor that the theory neglects and show how including this factor would change the conclusion
+  * Propose an important factor that the theory neglects and show how including this factor would change the conclusion.
 
-  * Characterize an additional implication of the theory that the authors do not discuss
+  * Characterize an additional implication of the theory that the authors do not discuss.
 
 * For empirical readings:
 
-  * Pursue an alternative interpretation of the evidence the authors present
+  * Pursue an alternative interpretation of the evidence the authors present.
 
-  * Evaluate how the case fits (or fails to fit) a particular theoretical model
+  * Evaluate how the case fits (or fails to fit) a particular theoretical model.
 
-  * Argue, based on a theoretical model, for how the case would have played out differently if some factor had been different
+  * Argue, based on a theoretical model, for how the case would have played out differently if some factor had been different.
 
 ### Conclusion
 

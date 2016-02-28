@@ -32,7 +32,7 @@ Each student will write two critical response papers throughout the semester. Ea
 
 ### Class Presentation
 
-Students will give a 15-20 minute presentation in class about one of the required readings. The schedule of presentations will be set in the second week of class. For more details, see the information on [class presentations](assignments/02-presentation.html) on the course website.
+Students will give a 15 minute presentation in class about one of the required readings. The schedule of presentations will be set in the second week of class. For more details, see the information on [class presentations](assignments/02-presentation.html) on the course website.
 
 
 ### Class Participation
