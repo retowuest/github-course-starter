@@ -18,7 +18,7 @@ There are up to two required readings each week. Students are expected to have r
 
 ### Piazza
 
-We will be using [Piazza](https://piazza.com/university_of_geneva/spring2016/j2p216/home) for class discussion. Piazza is a free online platform for class Q&A that replaces mailing lists. Rather than emailing questions to the instructor, you are encouraged to post your questions on Piazza. This allows you to answer each other's questions and for the entire class to see the instructor's responses.
+We will be using [Piazza](https://piazza.com/university_of_geneva/spring2016/j2p216se/home) for class discussion. Piazza is a free online platform for class Q&A that replaces mailing lists. Rather than emailing questions to the instructor, you are encouraged to post your questions on Piazza. This allows you to answer each other's questions and for the entire class to see the instructor's responses.
 
 
 # Assessment
