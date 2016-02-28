@@ -1,4 +1,6 @@
 ---
-title: Critical Response Papers
-pdf: 02-class-presentations.pdf
+title: Class Presentation
+pdf: 02-presentation.pdf
 ---
+
+# Instructions
