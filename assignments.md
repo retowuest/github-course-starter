@@ -9,3 +9,5 @@ layout: default
 {% for assignment in site.assignments %}
 * [{{assignment.title}}]({{site.baseurl}}{{assignment.url}})  
 {% endfor %}
+
+&nbsp;

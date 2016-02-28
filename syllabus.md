@@ -195,3 +195,5 @@ While students are encouraged to discuss course materials, no collaboration is a
 **Required Readings**
 
 * TBA
+
+&nbsp;
