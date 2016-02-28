@@ -19,7 +19,7 @@ The introduction provides basic information about the source. This includes:
 
 * A brief summary of the main idea, arguments, and evidence the authors present
 
-### Hallo
+### Body
 
 The body contains your arguments. Here are some examples of the kind of arguments you might want to make (this is not an exhaustive list).
 
