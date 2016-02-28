@@ -27,12 +27,12 @@ The assessment for this course consists of two critical response papers (50%), a
 
 ### Critical Response Papers
 
-Each student will write two critical response papers throughout the semester. Each paper will consist of a critical assessment of one of the required course readings. A paper must be turned in within two weeks of the discussion of the reading it responds to. For more details, see the information on [critical response papers](assignments/01-homework.html) on the course website.
+Each student will write two critical response papers throughout the semester. Each paper will consist of a critical assessment of one of the required course readings. A paper must be turned in within two weeks of the discussion of the reading it responds to. For more details, see the information on [critical response papers](assignments/01-critical-response.html) on the course website.
 
 
 ### Class Presentation
 
-Students will give a 15-20 minute presentation in class about one of the required readings. The schedule of presentations will be set in the second week of class. For more details, see the information on class presentations on the course website.
+Students will give a 15-20 minute presentation in class about one of the required readings. The schedule of presentations will be set in the second week of class. For more details, see the information on [class presentations](assignments/02-presentation.html) on the course website.
 
 
 ### Class Participation
