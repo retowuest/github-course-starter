@@ -19,7 +19,7 @@ Your presentation should be about 15 minutes long and answer the following quest
 
   * While the form of evidence varies across readings, most rely on statistical and/or formal models. You are not expected to present technical or mathematical material---just the substantive argument and the reasoning behind it.
 
-* What are some counterpoints to the main argument? Does the paper address them?
+* What are some counterpoints to the main argument? Do the authors address them?
 
   * Some authors explicitly consider competing explanations. Others do not. Either way, do not limit yourself to the objections raised in the paper.
 
