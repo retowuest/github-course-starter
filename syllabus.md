@@ -194,6 +194,8 @@ While students are encouraged to discuss course materials, no collaboration is a
 
 **Required Readings**
 
-* TBA
+* **[P]** Morrow, James D. 2007. ["When Do States Follow the Laws of War?"](http://www.jstor.org/stable/27644466) *American Political Science Review* 101(3): 559-572.
+
+* **[P]** Simmons, Beth. 2010. ["Treaty Compliance and Violation."](http://www.annualreviews.org/doi/abs/10.1146/annurev.polisci.12.040907.132713) *Annual Review of Political Science* 13: 273-296.
 
 &nbsp;
