@@ -133,7 +133,7 @@ While students are encouraged to discuss course materials, no collaboration is a
 
 * **[P]** Powell, Robert. 2002. ["Bargaining Theory and International Conflict."](http://search.ebscohost.com/login.aspx?direct=true&db=buh&AN=6790109&site=ehost-live) *Annual Review of Political Science* 5: 1-30. [Read carefully: pp. 1-14, 19-23; skim: pp. 14-19, 23-27]
 
-* Reiter, Dan. 2003. ["Exploring the Bargaining Model of War."](http://www.jstor.org/stable/3687811) *Perspectives on Politics* 1(1): 27-43.
+* **[P]** Reiter, Dan. 2003. ["Exploring the Bargaining Model of War."](http://www.jstor.org/stable/3687811) *Perspectives on Politics* 1(1): 27-43.
 
 **Further Readings**
 
