@@ -14,7 +14,7 @@ This seminar is an introduction to the analysis of international conflict and co
 
 ### Readings
 
-There are up to two required readings each week. Students are expected to have read all required readings prior to class. The readings listed under "Further Readings" are not required, but they may be helpful for students who are interested in learning more about the topics. Links to all journal articles are available in the [syllabus](syllabus.html) on the course website. Scans of book chapters will be made available through [Chamilo](https://chamilo.unige.ch/).
+There are up to two required readings each week. Students are expected to have read all required readings prior to class. The readings listed under "Further Readings" are not required, but they may be helpful for students who are interested in learning more about the topics. Links to all journal articles are available in the [syllabus](syllabus.html) on the course website. Scans of book chapters and other materials will be made available through [Piazza](https://piazza.com/university_of_geneva/spring2016/j2p216se/home).
 
 ### Piazza
 
